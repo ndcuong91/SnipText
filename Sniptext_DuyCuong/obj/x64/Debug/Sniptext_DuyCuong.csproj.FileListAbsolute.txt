@@ -1,0 +1,282 @@
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.config
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.bigrams
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.fold
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.lm
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.nn
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.params
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.size
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.word-freq
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.tesseract_cube.nn
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.traineddata
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.application
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.pdb
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.GPU.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.ML.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OCR.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OpenCL.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.Stitching.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.UI.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.VideoStab.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.Util.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\ZedGraph.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.xml
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.ML.xml
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OCR.xml
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OpenCL.xml
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.Stitching.xml
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.VideoStab.xml
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.Util.xml
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.MainDlg.resources
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.FulScr.resources
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.Properties.Resources.resources
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csproj.GenerateResource.Cache
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.application
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.pdb
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csprojResolveAssemblyReference.cache
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern_test.exe
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\OpenCL.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_calib3d2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_contrib2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_core2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_features2d2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_flann2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_gpu2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_highgui2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_imgproc2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_legacy2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_ml2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_nonfree2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_objdetect2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_photo2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_stitching2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_superres2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_video2410.dll
+E:\ATI\Visual Studio 2013\Projects\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_videostab2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.config
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.pdb
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern_test.exe
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\OpenCL.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_calib3d2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_contrib2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_core2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_features2d2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_flann2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_gpu2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_highgui2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_imgproc2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_legacy2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_ml2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_nonfree2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_objdetect2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_photo2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_stitching2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_superres2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_video2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_videostab2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.bigrams
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.fold
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.lm
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.nn
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.params
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.size
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.word-freq
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.tesseract_cube.nn
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.traineddata
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.application
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.pdb
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.GPU.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.ML.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OCR.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OpenCL.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.Stitching.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.UI.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.VideoStab.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.Util.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\ZedGraph.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.ML.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OCR.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OpenCL.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.Stitching.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.VideoStab.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.Util.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csprojResolveAssemblyReference.cache
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.MainDlg.resources
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.FulScr.resources
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.Properties.Resources.resources
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csproj.GenerateResource.Cache
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.application
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.config
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.pdb
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern_test.exe
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\OpenCL.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_calib3d2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_contrib2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_core2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_features2d2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_flann2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_gpu2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_highgui2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_imgproc2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_legacy2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_ml2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_nonfree2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_objdetect2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_photo2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_stitching2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_superres2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_video2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_videostab2410.dll
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.bigrams
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.fold
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.lm
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.nn
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.params
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.size
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.word-freq
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.tesseract_cube.nn
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.traineddata
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.application
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.pdb
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.ML.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OCR.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OpenCL.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.Stitching.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.VideoStab.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.Util.xml
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csprojResolveAssemblyReference.cache
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.MainDlg.resources
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.FulScr.resources
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.Properties.Resources.resources
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csproj.GenerateResource.Cache
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\ATI\Projects\Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.application
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.config
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.pdb
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern_test.exe
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\OpenCL.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_calib3d2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_contrib2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_core2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_features2d2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_flann2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_gpu2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_highgui2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_imgproc2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_legacy2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_ml2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_nonfree2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_objdetect2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_photo2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_stitching2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_superres2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_video2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_videostab2410.dll
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.bigrams
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.fold
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.lm
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.nn
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.params
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.size
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.word-freq
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.tesseract_cube.nn
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.traineddata
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.application
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.pdb
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.xml
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.ML.xml
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OCR.xml
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OpenCL.xml
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.Stitching.xml
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.VideoStab.xml
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.Util.xml
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csprojResolveAssemblyReference.cache
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.MainDlg.resources
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.FulScr.resources
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.Properties.Resources.resources
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csproj.GenerateResource.Cache
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\ATI\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.application
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.config
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.pdb
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\cvextern_test.exe
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\OpenCL.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_calib3d2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_contrib2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_core2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_features2d2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_flann2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_gpu2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_highgui2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_imgproc2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_legacy2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_ml2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_nonfree2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_objdetect2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_photo2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_stitching2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_superres2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_video2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\x64\opencv_videostab2410.dll
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.bigrams
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.fold
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.lm
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.nn
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.params
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.size
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.cube.word-freq
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.tesseract_cube.nn
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\tessdata\eng.traineddata
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.application
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.exe
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Sniptext_DuyCuong.pdb
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.xml
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.ML.xml
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OCR.xml
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.OpenCL.xml
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.Stitching.xml
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.UI.xml
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.CV.VideoStab.xml
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\bin\x64\Debug\Emgu.Util.xml
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csprojResolveAssemblyReference.cache
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.MainDlg.resources
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.FulScr.resources
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.Properties.Resources.resources
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.csproj.GenerateResource.Cache
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.exe.manifest
+E:\2. Projects\3. Project C#\Sniptext_DuyCuong\Sniptext_DuyCuong\Sniptext_DuyCuong\obj\x64\Debug\Sniptext_DuyCuong.application
